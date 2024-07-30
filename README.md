@@ -1,21 +1,20 @@
-Personal Website - Landing Page 
+Personal Website - Landing Page Template
 
-Welcome to my personal website project, built using the HTML5 UP "Hyperspace" template. This project showcases my work, skills, and interests in a visually appealing and responsive design.
 
 ## Project Structure
 
 The project directory contains the following files and folders:
 
-```plaintext
+```
 .
-├── assets
-│   ├── css
+├── assets Contains all CSS, JavaScript, and image assets used in the website.
+│   ├── css  Stylesheets for the website, including FontAwesome icons and main styles.
 │   │   ├── fontawesome-all.min.css
 │   │   ├── images
 │   │   │   └── intro.svg
 │   │   ├── main.css
 │   │   └── noscript.css
-│   ├── js
+│   ├── js JavaScript files for functionality, including jQuery and custom scripts.
 │   │   ├── breakpoints.min.js
 │   │   ├── browser.min.js
 │   │   ├── jquery.min.js
@@ -23,7 +22,7 @@ The project directory contains the following files and folders:
 │   │   ├── jquery.scrolly.min.js
 │   │   ├── main.js
 │   │   └── util.js
-│   ├── sass
+│   ├── sass SASS files for styling, organized into base, components, layout, and libs.
 │   │   ├── base
 │   │   │   ├── _page.scss
 │   │   │   ├── _reset.scss
@@ -61,7 +60,7 @@ The project directory contains the following files and folders:
 │   │   │   └── _vendor.scss
 │   │   ├── main.scss
 │   │   └── noscript.scss
-│   └── webfonts
+│   └── webfonts Web fonts used in the website, including FontAwesome fonts.
 │       ├── fa-brands-400.eot
 │       ├── fa-brands-400.svg
 │       ├── fa-brands-400.ttf
@@ -84,28 +83,13 @@ The project directory contains the following files and folders:
 │   ├── pic04.jpg
 │   ├── pic05.jpg
 │   └── pic06.jpg
-├── elements.html
-├── generic.html
-├── index.html
+├── elements.html A page showcasing various HTML elements used in the template.
+├── generic.html A generic page layout for additional content.
+├── index.html  The main landing page of the website.
 ├── LICENSE.txt
 ├── README.md
 └── README.txt
 ```
-
-## Files and Directories
-
-- **index.html**: The main landing page of the website.
-- **elements.html**: A page showcasing various HTML elements used in the template.
-- **generic.html**: A generic page layout for additional content.
-- **assets**: Contains all CSS, JavaScript, and image assets used in the website.
-  - **css**: Stylesheets for the website, including FontAwesome icons and main styles.
-  - **js**: JavaScript files for functionality, including jQuery and custom scripts.
-  - **sass**: SASS files for styling, organized into base, components, layout, and libs.
-  - **webfonts**: Web fonts used in the website, including FontAwesome fonts.
-- **images**: Images used throughout the website.
-- **LICENSE.txt**: The license file for the HTML5 UP template.
-- **README.md**: This README file.
-- **README.txt**: A text file with additional information about the template.
 
 ## Usage
 
